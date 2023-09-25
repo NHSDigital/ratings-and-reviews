@@ -1,0 +1,4 @@
+<APIProxy name="rar">
+  <!-- This is the root of the application -->
+  <Description>"ratings-and-reviews"</Description>
+</APIProxy>

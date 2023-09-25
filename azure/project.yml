@@ -1,0 +1,8 @@
+variables:
+  - group: status-endpoint
+  - name: service_name
+    value: ratings-and-reviews
+  - name: short_service_name
+    value: rar
+  - name: service_base_path
+    value: ratings-and-reviews
